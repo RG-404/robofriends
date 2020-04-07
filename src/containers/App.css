@@ -10,3 +10,6 @@
         font-weight: 200;
         color: #0ccac4;
     }
+html {
+    height: 100vh;
+}
